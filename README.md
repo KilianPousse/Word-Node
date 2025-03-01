@@ -8,7 +8,7 @@ Une analyse permet d'extraire des informations concernant les mots du texte, not
 Vous pouvez installer ce projet directement depuis cette page GitHub ou en utilisant la commande suivant:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone git@github.com:KilianPousse/Word-Node.git
 ```
 
 ## utilisation 
